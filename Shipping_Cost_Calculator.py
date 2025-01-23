@@ -1,5 +1,5 @@
-# Shipping Cost Calculator
-
+# Here is a new update by datiraw
+# Shipping Cost Calculator\
 ## Input package weight and shipping rate
 weight = float(input("50kg "))
 rate = float(input("$2/kg "))
